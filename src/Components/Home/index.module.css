@@ -5,14 +5,14 @@
     justify-content: end;
     align-items: center;
     height: auto;
-    min-height: var(100vh - 50px);
+    min-height: var(100vh - 70px);
 
 }
 
 .article_Content {
     display: flex;
     flex-direction: column;
-    gap: 100px;
+    gap: 80px;
 }
 
 .title {
@@ -58,8 +58,7 @@
 }
 
 .img {
-    /* width: 700px;
-    height: 200px; */
-    width: 57%;
+    width: auto;
+    height: 765px;
 
 }
